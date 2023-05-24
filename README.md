@@ -36,6 +36,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 Create a Resource Group
 
 <img src="https://i.imgur.com/bSD9nsZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click Create
+
 <img src="https://i.imgur.com/mV6PtRv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Name the Resource Group (ex: RG-01)
@@ -59,7 +62,11 @@ After Validation passed. Click create
 <img src="https://i.imgur.com/NeUudNQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Next objective is to create a Virtual machine
+
 Click the Home link in the upper left corner
+
+<img src="https://i.imgur.com/HprxhIH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Click Virtual machines
 
 <img src="https://i.imgur.com/ZhTOazm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -68,9 +75,31 @@ Click on Azure Virtual machine
 
 <img src="https://i.imgur.com/nVwmK1S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Select your Resource Group (ex: RG-01) and name your Virtual machine 
+
+<img src="https://i.imgur.com/WMhRWYG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Use Windows 10 Pro
+
+<img src="https://i.imgur.com/hSFw4uW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Go to Administrator account. Type in a Username and Password.
+
+<img src="https://i.imgur.com/QGFavuv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Check the Licensing box and then click Next : Disk
+
+<img src="https://i.imgur.com/4B7unkn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click Next : Management 
+
+<img src="https://i.imgur.com/VckEEl7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click Review + create
+
+<img src="https://i.imgur.com/VckEEl7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
