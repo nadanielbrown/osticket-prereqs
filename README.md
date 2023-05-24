@@ -162,7 +162,7 @@ Go to Start Menu and enter lookup Control Panel
 
 Next go to Programs
 
-<img src="https://i.imgur.com/A6fnrsK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ezk5VnF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Click Turn Windows features on or off
 
@@ -184,7 +184,7 @@ Download PHPManagerForllS
 
 <img src="https://i.imgur.com/udWK6i9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Right CLick on Download and 
+Right CLick on Download to open it up 
 
 <img src="https://i.imgur.com/ipgaWtC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -192,7 +192,7 @@ Click DOWNLOAD ANYWAY
 
 <img src="https://i.imgur.com/di48t8K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Click Close
+Click Cancel
 
 <img src="https://i.imgur.com/di48t8K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -204,21 +204,86 @@ Click Downloads
 
 <img src="https://i.imgur.com/hIBqoMl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Double click on PHPManager
+Double click on PHPManager so that it begins to RUN
 
 <img src="https://imgur.com/a/I7S2sno" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Click Next
+
+<img src="https://i.imgur.com/5m6i0nu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Select Agree and then Click Next
+
+<img src="https://i.imgur.com/5m6i0nu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click Close
+
+<img src="https://i.imgur.com/Q4SlAIk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Download rewrite_amd64
+
+<img src="https://i.imgur.com/V5MnDey.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click Downlaod Anyway
+
+<img src="https://i.imgur.com/tqGurVS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Double Click on rewrite_amd64
+
+<img src="https://i.imgur.com/liqLsrs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Install Rewrite Module
+Check the box: I accept the terms of te License Agreement and hit Install
+
+<img src="https://imgur.com/a/I7S2sno" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click Finish
+
+<img src="https://i.imgur.com/ACCodAw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Download all
+
+<img src="https://i.imgur.com/RH1qqma.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Go to File 
+
+<img src="https://i.imgur.com/oVI8hZP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+Right Click on Installation Files and click Extract ALl
+
+<img src="https://i.imgur.com/DtD6M6Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click Extract
+
+<img src="https://i.imgur.com/e1t0FPo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Double Click on Installation Files
+
+<img src="https://i.imgur.com/brFe6zy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Copy the files in Installation Folder 
+
+<img src="https://i.imgur.com/OUMsc7K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Go back to Downloads
+
+<img src="https://i.imgur.com/vHxYxW5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Delete all Folders except Installation Files
+
+<img src="https://i.imgur.com/YcI6NSu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iynCLqX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Exit out of Control Panel 
+
+<img src="https://i.imgur.com/rjA6457.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
