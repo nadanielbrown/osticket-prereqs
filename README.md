@@ -119,8 +119,42 @@ Go to Start Menu and type in Remote Desktop Connection
 
 <img src="https://i.imgur.com/e9AvtUk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Paste the IP Address and click Connect
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7V8Y0qJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Hit More Choices and then click Us a different User
+
+<img src="https://i.imgur.com/tGw5Gi1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Type in your Username and Password that was created and then hit OK
+
+<img src="https://i.imgur.com/enGmedL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Choose "NO" for all of the settings in Choose privacy settings for your device and then hit Accept
+
+Open Microsoft Edge
+
+<img src="https://i.imgur.com/H7Bil3T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Select Start without your data 
+
+<img src="https://i.imgur.com/jGWhRpB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click Continue without this data
+
+<img src="https://i.imgur.com/58678ZK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Select Confirm and start browsing
+
+<img src="https://i.imgur.com/F4rQViE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Copy osTicket Installation Files and paste inside of browser:
+https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+
+<img src="https://i.imgur.com/8Xww8Xy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
