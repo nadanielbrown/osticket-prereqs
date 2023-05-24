@@ -131,7 +131,7 @@ Type in your Username and Password that was created and then hit OK
 
 <img src="https://i.imgur.com/enGmedL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Choose "NO" for all of the settings in Choose privacy settings for your device and then hit Accept
+Choose "NO" for all of the settings then hit Accept
 
 <img src="https://i.imgur.com/eCtdua4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -191,6 +191,28 @@ Right CLick on Download and
 Click DOWNLOAD ANYWAY
 
 <img src="https://i.imgur.com/di48t8K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click Close
+
+<img src="https://i.imgur.com/di48t8K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Go to File 
+
+<img src="https://i.imgur.com/oVI8hZP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click Downloads
+
+<img src="https://i.imgur.com/hIBqoMl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Double click on PHPManager
+
+<img src="https://imgur.com/a/I7S2sno" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
+
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
