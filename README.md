@@ -133,6 +133,8 @@ Type in your Username and Password that was created and then hit OK
 
 Choose "NO" for all of the settings in Choose privacy settings for your device and then hit Accept
 
+<img src="https://i.imgur.com/eCtdua4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Open Microsoft Edge
 
 <img src="https://i.imgur.com/H7Bil3T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -154,7 +156,41 @@ https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 <img src="https://i.imgur.com/8Xww8Xy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Go to Start Menu and enter lookup Control Panel 
 
+<img src="https://i.imgur.com/A6fnrsK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Next go to Programs
+
+<img src="https://i.imgur.com/A6fnrsK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click Turn Windows features on or off
+
+<img src="https://i.imgur.com/K6X98PC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click on Information System Security
+
+<img src="https://i.imgur.com/jCqBCej.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click on Worldwide Web Services, Applicaton Development Features and CGI and click OK
+
+<img src="https://i.imgur.com/m1u15s6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Hit CLosed
+
+<img src="https://i.imgur.com/mTDN1gc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Download PHPManagerForllS
+
+<img src="https://i.imgur.com/udWK6i9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Right CLick on Download and 
+
+<img src="https://i.imgur.com/ipgaWtC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click DOWNLOAD ANYWAY
+
+<img src="https://i.imgur.com/di48t8K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
