@@ -235,7 +235,7 @@ Double Click on rewrite_amd64
 Install Rewrite Module
 Check the box: I accept the terms of te License Agreement and hit Install
 
-<img src="https://imgur.com/a/I7S2sno" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/B6UABsU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Click Finish
 
@@ -278,12 +278,28 @@ Exit out of Control Panel
 
 <img src="https://i.imgur.com/rjA6457.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Create a New Folder named PHP
+Go to This PC. Double click on Windows (C:) 
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4xtrnjA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Right click, go to New and select Folder and name it php 7.3 
+
+<img src="https://i.imgur.com/Tg70Wl2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Go to Downloads, double click Installation, then double click Installation again, then Right click on php-7.3.8 Compressed (zipped)
+
+<img src="https://i.imgur.com/wkU2Lmx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Hit Browse
+
+<img src="https://i.imgur.com/Gof4YGc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click This PC, next click Windows C, then click PHP Folder, Select Folder, then Hit Extract. Your screen should end up looking like this. 
+
+<img src="https://i.imgur.com/9Tx2PNw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
