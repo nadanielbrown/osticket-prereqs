@@ -97,9 +97,30 @@ Click Next : Management
 
 Click Review + create
 
-<img src="https://i.imgur.com/VckEEl7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.cAom/VckEEl7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+After Validation has passed. Click Create
+
+<img src="https://i.imgur.com/4g1Ukbm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+After Vitural machine has been created, click inside of your tool bar and go to Virtal machines
+
+<img src="https://i.imgur.com/cNhNacn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click the Virtual machine (ex: VM-01)
+
+<img src="https://i.imgur.com/AJA35Un.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Copy Virtual machine Public IP address
+
+<img src="https://i.imgur.com/5mBiyZq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Go to Start Menu and type in Remote Desktop Connection
+
+<img src="https://i.imgur.com/e9AvtUk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
