@@ -392,11 +392,26 @@ Click Sites, then click Defult Web Site, click Browse *.80 (http)
 
 You should get a screen that looks like this 
 
-<img src="https://i.imgur.com/CVBQNHi.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CVBQNHi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 Go back to Internet Information Services (IIS) Manager, click VMOST, click PHP Manager
 
 <img src="https://i.imgur.com/qvhPvbc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Click Enable or disable an extension
+
+<img src="https://i.imgur.com/7YIe6A9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click on php_imap.dll and then click Enable, then click on php_opache.dll and click Enable, next php_intl.dll and click Enable
+
+<img src="https://i.imgur.com/vUKxClI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Go back to Internet Information Services (IIS) Manager
+
+<img src="https://i.imgur.com/qvhPvbc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
