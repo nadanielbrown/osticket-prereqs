@@ -382,11 +382,21 @@ Drag "upload" folder to "wwwroot"
 Rename "upload" folder to "osTicket"
 <img src="https://i.imgur.com/cBxhzQP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Go back to Internet Information Services (IIS) Manager, and click Restart
+Go back to  and click Restart
 
 <img src="https://i.imgur.com/sHAoxM9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click Sites, then click Defult Web Site, click Browse *.80 (http)
+
+<img src="https://i.imgur.com/aYQZu5C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+You should get a screen that looks like this 
+
+<img src="https://i.imgur.com/CVBQNHi.png height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Go back to Internet Information Services (IIS) Manager, click VMOST, click PHP Manager
+
+<img src="https://i.imgur.com/qvhPvbc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
