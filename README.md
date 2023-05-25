@@ -342,15 +342,49 @@ Click on PHP Manager
 
 <img src="https://i.imgur.com/aLgXhgQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Click Register New PHP verison
+
+<img src="https://i.imgur.com/bMpXeDr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Click on box
 
 <img src="https://i.imgur.com/mmT4ybd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Double click on PHP folder, double click on php-cgi, click OK,
 
+<img src="https://i.imgur.com/ioyHixO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Go back to the home page by clicking on VM-01 
+
+<img src="https://i.imgur.com/DZUmA6K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click Restart 
+
+<img src="https://i.imgur.com/Nihl5mU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Go to your folder, click on Download, double click on Installation, double click Installation again, 
+
+<img src="https://imgur.com/a/I7S2sno" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Right click osTickect-v1.15.8, go to Extract All, click Extract, 
+
+<img src="https://i.imgur.com/ALMqPKX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Relocate "upload Folder"
+Go to "This PC", go to Windows (C:), double click "inetpub", double click "wwwwroot"
+
+<img src="https://i.imgur.com/DJZw1Ml.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Drag "upload" folder to "wwwroot"
+
+<img src="https://i.imgur.com/jejgPmc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Rename "upload" folder to "osTicket"
+<img src="https://i.imgur.com/cBxhzQP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Go back to Internet Information Services (IIS) Manager, and click Restart
+
+<img src="https://i.imgur.com/sHAoxM9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
