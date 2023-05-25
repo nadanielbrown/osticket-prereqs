@@ -299,7 +299,60 @@ Click This PC, next click Windows C, then click PHP Folder, Select Folder, then 
 
 <img src="https://i.imgur.com/9Tx2PNw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Installing Microsoft Visual C++
+Click on Downloads, double click on Installation, then double click Installation, double click on VC__redist.x86, check "I agree to the license terms and conditions, click Install
+
+<img src="https://i.imgur.com/TS3qh6A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click close
+
+<img src="https://i.imgur.com/dItRJ5c.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Install MySQL
+Right click on mysql-5.5.62-win
+
+<img src="https://i.imgur.com/ZOdql38.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click Next, check the box "I agree the terms in the License Agreement, click Next, 
+
+<img src="https://i.imgur.com/ZOdql38.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Choose Typical, click Install
+
+<img src=https://i.imgur.com/Q9eK6aF.png"" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click Finish, click Next, 
+
+<img src="https://i.imgur.com/dPqoBMl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Select Standard Configuration, click Next
+
+<img src="https://i.imgur.com/2cHUoZy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Create a Password (ex:Password1), click Next, click Execute, click Finish
+
+<img src="https://i.imgur.com/2l1sJ8K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Open Internet Information Services (ISS)
+Go to Start Menu inside of Remote Desktop and type in IIS, right click and select "Run as administrator 
+
+<img src="https://i.imgur.com/fuGjZ6j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click on PHP Manager
+
+<img src="https://i.imgur.com/aLgXhgQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click on box
+
+<img src="https://i.imgur.com/mmT4ybd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
