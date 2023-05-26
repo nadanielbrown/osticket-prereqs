@@ -454,14 +454,52 @@ Go to Downloads, select HeidiSQL_12.3.0.6589_Setup.exe, copy link, and paste in 
 
 <img src="https://i.imgur.com/wRelwRY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Open the file,
+Open the file, select "I accept the agreement". click Next, click Next, click Next, click Install
 
 <img src="https://i.imgur.com/E9ASY7X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select Finish, then click Skip
+
+<img src="https://i.imgur.com/judRhiN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click New, enter Password, click Open
+
+<img src="https://i.imgur.com/pO6I8e4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Right click and go to Create New, select Database
+
+<img src="https://i.imgur.com/yTDr962.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Type "osTicket" inside Name, hit OK
+
+<img src="https://i.imgur.com/vzNERBE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Go to osTicket
+
+<img src="https://i.imgur.com/7bCNjry.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Enter the proper information (ex: see below), then click Install
+
+<img src="https://i.imgur.com/7bCNjry.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Congratulations screen should appear, 
+
+<img src="https://i.imgur.com/9ui9bfg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Go to "This PC", select "Windows (C:)", click "inetpub", click "wwwroot", click "osTicket, click "setup" and Right click it, go to Delete, go to include
+
+<img src="https://i.imgur.com/MIZKnwU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Right click "ost-config.php" folder and select Properties, go to Security, click Advance, select Allow, click off Full Control/Modify/Write, click OK, click Apply, click ok
+
+<img src="https://i.imgur.com/hQGciys.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Open a web browser and enter http://localhost/osticket/scp/login.php, press Enter, type in login info (ex: Jane) with correct password
+
+<img src="https://i.imgur.com/2AxDnrs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Your screen should appear as such, displaying that you have correctly installed osTicket
+
+<img src="https://i.imgur.com/zVC4YQs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+!!!!CONGRATS ON INSTALLING OSTICKET!!!
