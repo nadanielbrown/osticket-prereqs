@@ -382,7 +382,7 @@ Drag "upload" folder to "wwwroot"
 Rename "upload" folder to "osTicket"
 <img src="https://i.imgur.com/cBxhzQP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Go back to  and click Restart
+Go back to Internet Information Services (IIS) Manager, and click Restart
 
 <img src="https://i.imgur.com/sHAoxM9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
@@ -406,10 +406,60 @@ Click on php_imap.dll and then click Enable, then click on php_opache.dll and cl
 
 <img src="https://i.imgur.com/vUKxClI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Go back to Internet Information Services (IIS) Manager
+Go back to Internet Information Services (IIS) Manager and click Restart
 
-<img src="https://i.imgur.com/qvhPvbc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sHAoxM9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Go back to your Web browser and click on osTicket 
+
+<img src="https://i.imgur.com/hSiSvBi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Go back to "wwwroot", click osTicket, click include
+
+<img src="https://i.imgur.com/WzhY2Xa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Scroll down to ost-sampleconfig.php, right click and hit Rename, remove the world sample, hit Enter, right click it again, go to Properties
+
+<img src="https://i.imgur.com/MTmqtc7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click on Security, click Advance, click Disable inheritance, click Remove all inhertied permissions from this object
+
+<img src="https://i.imgur.com/Z7MHxsG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click Add, click Select a principal
+
+<img src="https://i.imgur.com/L1IyXbL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Type in everyone, click check names, click OK
+
+<img src="https://i.imgur.com/5LilrjF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Click on Full Control, hit OK, click Apply, click OK, click OK
+
+<img src="https://i.imgur.com/rKtvn8x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Go to osTicket and hit Continue 
+
+<img src="https://i.imgur.com/NTzoPYg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Type in Helpdesk Name (ex: Jane Doe), Default Email (ex: Jane@helpdesk.com)
+
+<img src="https://i.imgur.com/1AHurHs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Inside the Admin portion fill in the correct info 
+
+<img src="https://i.imgur.com/CMfSp8K.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Go to Downloads, select HeidiSQL_12.3.0.6589_Setup.exe, copy link, and paste in New Web Browser
+
+<img src="https://i.imgur.com/wRelwRY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Open the file,
+
+<img src="https://i.imgur.com/E9ASY7X.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
