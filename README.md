@@ -482,7 +482,7 @@ Enter the proper information (ex: see below), then click Install
 
 <img src="https://i.imgur.com/7bCNjry.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Congratulations screen should appear, 
+Congratulations your screen should appear like this
 
 <img src="https://i.imgur.com/9ui9bfg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
